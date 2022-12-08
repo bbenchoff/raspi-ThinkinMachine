@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-12-07T23:00:47Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "LEDPanel"
+        },
+        "Owner": "Brian Benchoff <benchoff@gmail.com>",
+        "Size": {
+            "X": 299.954,
+            "Y": 45.136
+        }
+    }
+}
