@@ -16818,13 +16818,13 @@ CONN_06
 <instance part="+3V3" gate="G$1" x="137.16" y="220.98" smashed="yes" rot="R270">
 <attribute name="VALUE" x="132.08" y="223.52" size="1.778" layer="96"/>
 </instance>
-<instance part="J1" gate="G$1" x="335.28" y="223.52" smashed="yes">
-<attribute name="VALUE" x="332.74" y="218.694" size="1.778" layer="96" font="vector"/>
-<attribute name="NAME" x="332.74" y="229.108" size="1.778" layer="95" font="vector"/>
+<instance part="J1" gate="G$1" x="266.7" y="215.9" smashed="yes">
+<attribute name="VALUE" x="264.16" y="211.074" size="1.778" layer="96" font="vector"/>
+<attribute name="NAME" x="264.16" y="221.488" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="J4" gate="G$1" x="414.02" y="223.52" smashed="yes">
-<attribute name="VALUE" x="408.94" y="213.614" size="1.778" layer="96" font="vector"/>
-<attribute name="NAME" x="408.94" y="234.188" size="1.778" layer="95" font="vector"/>
+<instance part="J4" gate="G$1" x="345.44" y="238.76" smashed="yes">
+<attribute name="VALUE" x="340.36" y="228.854" size="1.778" layer="96" font="vector"/>
+<attribute name="NAME" x="340.36" y="249.428" size="1.778" layer="95" font="vector"/>
 </instance>
 </instances>
 <busses>
@@ -17293,8 +17293,8 @@ CONN_06
 <pinref part="GND14" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="419.1" y1="223.52" x2="439.42" y2="223.52" width="0.1524" layer="91"/>
-<label x="426.72" y="223.52" size="1.778" layer="95"/>
+<wire x1="350.52" y1="238.76" x2="370.84" y2="238.76" width="0.1524" layer="91"/>
+<label x="358.14" y="238.76" size="1.778" layer="95"/>
 <pinref part="J4" gate="G$1" pin="3"/>
 </segment>
 </net>
@@ -17364,8 +17364,8 @@ CONN_06
 <pinref part="SUPPLY1" gate="G$1" pin="VCC"/>
 </segment>
 <segment>
-<wire x1="439.42" y1="226.06" x2="419.1" y2="226.06" width="0.1524" layer="91"/>
-<label x="426.72" y="226.06" size="1.778" layer="95"/>
+<wire x1="370.84" y1="241.3" x2="350.52" y2="241.3" width="0.1524" layer="91"/>
+<label x="358.14" y="241.3" size="1.778" layer="95"/>
 <pinref part="J4" gate="G$1" pin="4"/>
 </segment>
 </net>
@@ -17380,8 +17380,8 @@ CONN_06
 <label x="167.64" y="215.9" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<wire x1="419.1" y1="218.44" x2="439.42" y2="218.44" width="0.1524" layer="91"/>
-<label x="426.72" y="218.44" size="1.778" layer="95"/>
+<wire x1="350.52" y1="233.68" x2="370.84" y2="233.68" width="0.1524" layer="91"/>
+<label x="358.14" y="233.68" size="1.778" layer="95"/>
 <pinref part="J4" gate="G$1" pin="1"/>
 </segment>
 </net>
@@ -17396,8 +17396,8 @@ CONN_06
 <label x="165.1" y="215.9" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<wire x1="439.42" y1="220.98" x2="419.1" y2="220.98" width="0.1524" layer="91"/>
-<label x="426.72" y="220.98" size="1.778" layer="95"/>
+<wire x1="370.84" y1="236.22" x2="350.52" y2="236.22" width="0.1524" layer="91"/>
+<label x="358.14" y="236.22" size="1.778" layer="95"/>
 <pinref part="J4" gate="G$1" pin="2"/>
 </segment>
 </net>
@@ -17428,12 +17428,12 @@ CONN_06
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="342.9" y1="223.52" x2="353.06" y2="223.52" width="0.1524" layer="91"/>
-<label x="345.44" y="223.52" size="1.778" layer="95"/>
+<wire x1="274.32" y1="215.9" x2="284.48" y2="215.9" width="0.1524" layer="91"/>
+<label x="276.86" y="215.9" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="419.1" y1="228.6" x2="439.42" y2="228.6" width="0.1524" layer="91"/>
-<label x="426.72" y="228.6" size="1.778" layer="95"/>
+<wire x1="350.52" y1="243.84" x2="370.84" y2="243.84" width="0.1524" layer="91"/>
+<label x="358.14" y="243.84" size="1.778" layer="95"/>
 <pinref part="J4" gate="G$1" pin="5"/>
 </segment>
 </net>
@@ -22931,13 +22931,13 @@ CONN_06
 <net name="BUTTON" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="2"/>
-<wire x1="342.9" y1="226.06" x2="353.06" y2="226.06" width="0.1524" layer="91"/>
-<label x="345.44" y="226.06" size="1.778" layer="95"/>
+<wire x1="274.32" y1="218.44" x2="284.48" y2="218.44" width="0.1524" layer="91"/>
+<label x="276.86" y="218.44" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="J4" gate="G$1" pin="6"/>
-<wire x1="419.1" y1="231.14" x2="439.42" y2="231.14" width="0.1524" layer="91"/>
-<label x="424.18" y="231.14" size="1.778" layer="95"/>
+<wire x1="350.52" y1="246.38" x2="370.84" y2="246.38" width="0.1524" layer="91"/>
+<label x="355.6" y="246.38" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
